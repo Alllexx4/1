@@ -1,2 +1,27 @@
 #EXTM3U
-# Этот файл будет заполнен после первой сборки плейлиста Alexander TV.
+# AlexanderTV starter playlist
+# Replace or extend with your preferred public streams.
+
+#EXTINF:-1 group-title="Россия",Первый канал
+https://smolnp.github.io/IPTVru/IPTVstable.m3u8
+
+#EXTINF:-1 group-title="Россия",Россия 1
+https://smolnp.github.io/IPTVru/IPTVstable.m3u8
+
+#EXTINF:-1 group-title="Израиль",Israel Playlist
+https://iptv-org.github.io/iptv/countries/il.m3u
+
+#EXTINF:-1 group-title="Украина",Ukraine Playlist
+https://iptv-org.github.io/iptv/countries/ua.m3u
+
+#EXTINF:-1 group-title="Спорт",Sports Playlist
+https://iptv-org.github.io/iptv/categories/sports.m3u
+
+#EXTINF:-1 group-title="Кино",Movies Playlist
+https://iptv-org.github.io/iptv/categories/movies.m3u
+
+#EXTINF:-1 group-title="Музыка",Music Playlist
+https://iptv-org.github.io/iptv/categories/music.m3u
+
+#EXTINF:-1 group-title="Познавательные",Documentary Playlist
+https://iptv-org.github.io/iptv/categories/documentary.m3u
