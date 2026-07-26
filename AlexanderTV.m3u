@@ -119,6 +119,8 @@ http://hls127.freeott.top:8080/Dikiy/video.m3u8
 http://94.230.129.31:8080/Domashnii/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="Domashniy.ru@SD",Domashniy SD (576p)
 http://stream.mcquack.net/227/index.m3u8
+#EXTINF:-1 group-title="Россия" tvg-id="Dorama.ru@SD",Dorama
+https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="Dorama.ru@HD",Dorama HD (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/412/index.m3u8
@@ -231,6 +233,8 @@ https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
 https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="Moymir.ru@SD",Moy mir (720p)
 https://moymir.ru/hls/onair.m3u8
+#EXTINF:-1 group-title="Россия" tvg-id="MoyaPlaneta.ru@SD",Moya Planeta (1080p)
+http://91.226.120.120/chid210/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="MoyaPlaneta.ru@SD",Moya Planeta (576p)
 http://stream.mcquack.net/124/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="Moyastikhiya.ru@HD",Moya stikhiya HD (1080p)
@@ -686,9 +690,9 @@ http://158.101.222.193:88/georgia_play.php?id=1plus1international
 https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="1Plus1Marafon.ua@SD",1+1 Marafon (1080p)
 https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8
-#EXTINF:-1 group-title="Украина" tvg-id="1Plus1Ukraina.ua@SD",1+1 Ukraina
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://uys1g01.s.gy/1PLUS1_UKRAINE
+#EXTINF:-1 group-title="Украина" tvg-id="1Plus1Ukraina.ua@SD",1+1 Ukraina (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://stream.mcquack.net/219/index.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="Channel11.ua@SD",11 Kanal (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 https://11tv-dp.cdn-04.cosmonova.net.ua/hls/11tv-dp_ua_hi/index.m3u8
@@ -714,6 +718,9 @@ http://195.54.52.40/test/index.m3u8
 https://atr-live.cdn-01.cosmonova.net.ua/hls/atr_ua_hi/index.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="Avers.ua@SD",Avers (480p)
 https://avers.pp.ua/hls/efir.m3u8
+#EXTINF:-1 group-title="Украина" tvg-id="Bigudi.ua@SD",Bigudi (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://stream.mcquack.net/340/index.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="Bolt.ua@SD",Bolt (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/73/index.m3u8
@@ -776,6 +783,8 @@ http://stream.mcquack.net/147/index.m3u8
 http://stream.mcquack.net/174/index.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="InterPlus.ua@SD",Inter+ (720p)
 https://cdn15.live-tv.cloud/ua_infinitas_tv/inter-abr/playlist.m3u8
+#EXTINF:-1 group-title="Украина" tvg-id="Islandia.ua@SD",Islandia (720p)
+https://cdn15.live-tv.cloud/ua_infinitas_tv/islandiya-abr/playlist.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="IT3.ua@SD",IT-3 (720p)
 http://cdn10.live-tv.od.ua:8081/it3od/720p/playlist.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="ITV.ua@SD",ITV (480p)
@@ -793,9 +802,6 @@ https://cdn15.live-tv.cloud/ua_infinitas_tv/k2-abr/playlist.m3u8
 https://dash2.antik.sk/live/test_kuskus_tv_atktv/playlist.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="Kyiv.ua@SD",Kyiv (1080p)
 https://api-tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
-#EXTINF:-1 group-title="Украина" tvg-id="LuxTV.ua@SD",Lux TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10) Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://stream.youtv.com.ua/4481/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="M1.ua@SD",M1 (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/218/index.m3u8
@@ -826,9 +832,14 @@ http://stream.mcquack.net/403/index.m3u8
 http://stream.mcquack.net/157/index.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="NTN.ua@SD",NTN (1080i)
 https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8
+#EXTINF:-1 group-title="Украина" tvg-id="OnePlanet.ua@SD",One Planet (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://stream.mcquack.net/448/index.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="OTSE.ua@SD",OTSE (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/329/index.m3u8
+#EXTINF:-1 group-title="Украина" tvg-id="OTV.ua@SD",OTV
+https://stream.otv.ua/memfs/028e5947-073f-4b4e-a47f-70e59ca3ee36.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="PershiyXTVMedia.ua@SD",Pershiy XTV Media (576p)
 https://hls.xtvmedia.pp.ua:8443/hls/trk1tv.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="Pershyi.ua@SD",Pershyi (1080p)
@@ -841,6 +852,9 @@ http://stream.mcquack.net/404/index.m3u8
 http://stream.mcquack.net/246/index.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="PixelTV.ua@SD",Pixel TV (720p)
 https://cdn15.live-tv.cloud/ua_infinitas_tv/pixel-abr/playlist.m3u8
+#EXTINF:-1 group-title="Украина" tvg-id="PLUSPLUS.ua@SD",PLUSPLUS (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://stream.mcquack.net/339/index.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="PTV.ua@SD",PTV (720p)
 https://cdn15.live-tv.cloud/ua_infinitas_tv/hrpl-abr/playlist.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="QuizTV.ua@SD",Quiz TV (1080p)
@@ -914,6 +928,9 @@ https://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="Tviyserial.ua@SD",Tviy serial (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/466/index.m3u8
+#EXTINF:-1 group-title="Украина" tvg-id="UNIANSerial.ua@SD",UNIAN Serial (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://stream.mcquack.net/341/index.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="Z.ua@SD",Z (Запорожье) (1080p)
 https://stream.ztv.zp.ua/hls/live.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="Zoom.ua@SD",Zoom (1080p)
@@ -1115,6 +1132,9 @@ http://stream.mcquack.net/100/index.m3u8
 https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vijuTV1000russkoe.ru@SD",viju TV1000 russkoe
 https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="YesMoviesAction.il@SD",Yes Movies Action (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://stream.mcquack.net/380/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="KinoTV.ru@SD",КИНОТВ
 https://vod.tuva.ru/kinotv/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="Doctor.ru@SD",Doctor (576i)
