@@ -287,8 +287,6 @@ http://hls127.freeott.top:8080/NTV_STIL_TV/video.m3u8
 https://cdn.ntv.ru/vitrina/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="NTVHit.ru@SD",NTV-Hit (1080p)
 https://cdn-dvr.ntv.ru/th_hit/index.m3u8
-#EXTINF:-1 group-title="Россия" tvg-id="O.ru@SD",O! (1080p)
-http://de.russkoe-iptv.com:88/s/s-e3dc39e0/kanal-o-hd.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="O.ru@SD",O! (576p)
 http://stream.mcquack.net/60/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="OceanTV.ru@SD",Ocean-TV (576p)
@@ -541,6 +539,8 @@ http://stream.mcquack.net/311/index.m3u8
 https://live-11cinema.cdnvideo.ru/11cinema/11cinema/playlist.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="VIVARussia.ru@SD",VIVA Russia
 https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8
+#EXTINF:-1 group-title="Россия" tvg-id="VIVARussia.ru@SD",VIVA Russia (720p)
+https://river-6-601.rtbcdn.ru/stream/genetta-410.ntv.rutube.ru/it_KlgcrpetPAAs-Pfyogw/1785516951/f712ae5ff3db23ec09b3674133d44daa/720p_stream.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="Vkus.ru@SD",Vkus (576p)
 http://178.134.1.158:8081/vkus/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="VmesteRF.ru@SD",Vmeste-RF (576p) [Geo-blocked]
@@ -1154,6 +1154,8 @@ https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="5Sport.il@SD",5Sport (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/41/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="DiviSport.ua@SD",DiviSport (1080p)
+http://stream.mcquack.net/457/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="ExtremeSportsChannel.ru@SD",Extreme Sports Channel (576p)
 http://46.32.176.50/extremesport/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="Football.ru@SD",Football (576p)
