@@ -357,8 +357,6 @@ http://stream.mcquack.net/191/index.m3u8
 https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/playlist.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="Russia1.ru@SD",Russia-1
 https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Россия" tvg-id="Russia1.ru@SD",Russia-1 (576p)
-http://41.223.30.230/RUSSIA1/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="Russia1.ru@HD",Russia-1 HD (1080p)
 https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="Russia1.ru@SD",Russia-1 SD (576p)
@@ -1328,16 +1326,12 @@ http://stream.mcquack.net/42/index.m3u8
 https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="HalaTV.il@SD",Hala TV (1080p) [Not 24/7]
 https://stream.panet.com/edge/halaTV/playlist.m3u8
-#EXTINF:-1 group-title="Новости" tvg-id="i24NEWSEnglishWorld.il@SD",I24 News English (720p)
-https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="i24NEWSFrench.il@SD",I24 News French (720p)
 https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/playlist.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="i24NEWSHebrew.il@SD",I24 News Hebrew (1080p)
 https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="i24NEWSArabic.il@SD",i24NEWS Arabic (1080p)
 https://i24newsarabic-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 group-title="Новости" tvg-id="i24NEWSEnglishUSA.il@SD",i24NEWS English USA (1080p)
-https://fastly.live.brightcove.com/6386790908112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTA5MDgxMTIifQ._w5c3EwfnEecDCEpDaKuVz07uuEyUb3vXvQN3svv-oU/chunklist.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="i24NEWSEnglishWorld.il@SD",i24NEWS English World (1080p)
 https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="i24NEWSFrench.il@SD",i24NEWS French (1080p)
@@ -1372,8 +1366,6 @@ https://stream.smotrim.ru/hls2/givc9/playlist_4.m3u8
 http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="RT.ru@SD",RT
 http://89.218.32.179:18000/play/a025
-#EXTINF:-1 group-title="Новости" tvg-id="RT.ru@SD",RT (576p)
-http://41.205.77.102/RT-ENGLISH/index.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="RT.ru@SD",RT (576p)
 http://84.17.50.102/russiatoday/index.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="RT.ru@SD",RT (720p)
@@ -1412,8 +1404,6 @@ https://shift03.isp.bg/RTVi/index.m3u8
 http://91.146.94.234:10001/play/a090
 #EXTINF:-1 group-title="Новости" tvg-id="Russia24.ru@SD",Russia-24
 https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Новости" tvg-id="Russia24.ru@SD",Russia-24 (1080p)
-http://41.223.30.230/ROSSIYA24/index.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="Russia24.ru@SD",Russia-24 (576p)
 http://94.230.129.31:8080/Rossia_24/index.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="Russia24.ru@SD",Russia-24 (720p)
