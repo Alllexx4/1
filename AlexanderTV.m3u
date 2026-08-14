@@ -158,6 +158,8 @@ http://stream.mcquack.net/68/index.m3u8
 http://stream.mcquack.net/74/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="KongressTV.ru@SD",Kongress TV (1080p)
 https://live-3.otcnet.ru/congresstv/index.m3u8
+#EXTINF:-1 group-title="Россия" tvg-id="KongressTV.ru@SD",Kongress TV (1080p)
+https://stitch.teletarget.ru/api/v1/hls/504/158/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="Kuhnya.ru@SD",Kuhnya (576p)
 http://stream.mcquack.net/179/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="",Kukhnya TV (576p)
@@ -1214,8 +1216,6 @@ http://stream.mcquack.net/111/index.m3u8
 https://live-3.otcnet.ru/Tiji/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="TiJi.ru@SD",TiJi (576p)
 https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Детские" tvg-id="ZharaKidsTV.ru@SD",Zhara Kids TV (576p)
-https://trs1.aynaott.com/discoverykids/index.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="100NEWS.ua@SD",100% News (576p)
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="24Kanal.ua@SD",24 Kanal (720p)
@@ -1283,8 +1283,6 @@ https://rt-srb.rttv.com/dvr/rtbalkan/playlist.m3u8
 https://rt-srb.rttv.com/live/rtbalkan/playlist.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="RTenEspanol.ru@SD",RT en Espanol (1080p)
 http://15.204.246.24:8080/RTHD/index.m3u8
-#EXTINF:-1 group-title="Новости" tvg-id="RTenEspanol.ru@SD",RT en Espanol (1080p)
-http://177.234.249.135:8888/RT/index.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="RTenEspanol.ru@SD",RT en Espanol (1080p)
 http://179.60.51.134:8888/RT/index.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="RTenEspanol.ru@SD",RT en Espanol (576p)
