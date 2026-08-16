@@ -1095,6 +1095,12 @@ http://stream.mcquack.net/490/index.m3u8
 http://stream.mcquack.net/493/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="OkkoSport.ru@SD",Okko Sport (1080p)
 http://stream.mcquack.net/492/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="SetantaSports1.ru@SD",Setanta Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
+#EXTINF:-1 group-title="Спорт" tvg-id="SetantaSports2.ru@SD",Setanta Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia
 #EXTINF:-1 group-title="Спорт" tvg-id="SetantaSportsPlusUkraine.ua@SD",Setanta Sports+ Ukraine (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/390/index.m3u8
@@ -1198,6 +1204,9 @@ https://stream8.cinerama.uz/1501/playlist.m3u8
 http://stream.mcquack.net/443/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="NicktoonsCIS.ru@SD",Nicktoons CIS (1080p)
 https://stream8.cinerama.uz/1502/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="NikiJunior.ua@SD",Niki Junior
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://158.101.222.193:88/georgia_play.php?id=nikijunior
 #EXTINF:-1 group-title="Детские" tvg-id="Ryzhiy.ru@SD",Ryzhiy (576i)
 https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="ShoppingLive.ru@SD",Shopping Live (576p) [Not 24/7]
