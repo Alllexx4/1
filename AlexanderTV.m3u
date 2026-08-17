@@ -1252,8 +1252,12 @@ https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/53
 https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="i24NEWSArabic.il@SD",i24NEWS Arabic (1080p)
 https://i24newsarabic-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 group-title="Новости" tvg-id="i24NEWSArabic.il@SD",i24NEWS Arabic (1080p)
+https://hlspackager.akamaized.net/live/DB/i24_ARABIC/HLS/i24_ARABIC.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="i24NEWSEnglishWorld.il@SD",i24NEWS English World (1080p)
 https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 group-title="Новости" tvg-id="i24NEWSEnglishWorld.il@SD",i24NEWS English World (1080p)
+https://hlspackager.akamaized.net/live/DB/i24_ENGLISH/HLS/i24_ENGLISH.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="i24NEWSFrench.il@SD",i24NEWS French (1080p)
 https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="IRT.ua@SD",IRT (720p)
