@@ -11,6 +11,8 @@ http://stream.mcquack.net/180/index.m3u8
 https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?e=2068731801&s=tenr-yHXUv1wibfka78s2A&scheme=https
 #EXTINF:-1 group-title="Россия" tvg-id="2x2.ru@SD",2x2 (576p)
 http://flussonic.mkpnet.ru/tv-17540fb90079a865/video.m3u8
+#EXTINF:-1 group-title="Россия" tvg-id="2x2.ru@SD",2x2 (576p)
+http://185.23.80.23:8080/2x2/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="2x2.ru@SD",2x2 SD (576p)
 http://stream.mcquack.net/187/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="360.ru@SD",360° (1080p)
@@ -110,6 +112,8 @@ https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
 http://stream.mcquack.net/412/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="Drive.ru@SD",Drive (576i)
 https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Россия" tvg-id="DumaTV.ru@SD",Duma TV (720p)
+http://185.23.80.23:8080/DumaTV/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="Dushevnoe.ru@HD",Dushevnoe HD (1080p)
 http://stream.mcquack.net/213/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="Enisey.ru@SD",Enisey (576p)
@@ -217,6 +221,8 @@ http://stream.mcquack.net/141/index.m3u8
 http://stream.mcquack.net/232/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="Nano.ru@SD",Nano (576p)
 http://stream.mcquack.net/419/index.m3u8
+#EXTINF:-1 group-title="Россия" tvg-id="Nano.ru@HD",Nano HD (1080p)
+http://185.23.80.23:8080/NANO_HD/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="Nashe.ru@HD",Nashe HD (576p)
 http://stream.mcquack.net/217/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="NationalGeographic.ru@SD",National Geographic (576p)
@@ -309,6 +315,8 @@ https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 http://hls127.freeott.top:8080/RBK/video.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="RENTV.ru@SD",REN TV (576p)
 http://31.148.48.15/REN-TV/index.m3u8
+#EXTINF:-1 group-title="Россия" tvg-id="RENTV.ru@SD",REN TV (576p)
+http://185.23.80.23:8080/REN/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="Retro.ru@SD",Retro
 https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="Retro.ru@SD",Retro (576p)
@@ -439,6 +447,8 @@ http://hls127.freeott.top:8080/Sovershenno_Sekretno/video.m3u8
 https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?e=2070278263&s=is_mLq_kjPYLsOJ4qj85tw&scheme=https
 #EXTINF:-1 group-title="Россия" tvg-id="TV21International.ru@SD",TV 21 International (576p)
 http://stream.mcquack.net/152/index.m3u8
+#EXTINF:-1 group-title="Россия" tvg-id="TVBRICSRussian.ru@SD",TV BRICS Russian (1080p)
+http://185.23.80.23:8080/TVBRICS/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="TVCentr.ru@SD",TV Centr (576p)
 http://hls127.freeott.top:8080/Tv_Center/video.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="TVCentr.ru@SD",TV Centr SD (576p)
@@ -457,6 +467,8 @@ https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?e=20
 http://5.188.159.128:8070/udar/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="Unikum.ru@SD",Unikum
 https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Россия" tvg-id="UnknownRussia.ru@HD",Unknown Russia HD (1080p)
+http://185.23.80.23:8080/NeizvestnayaRossia/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="Usadba.ru@SD",Usadba (576p)
 http://stream.mcquack.net/211/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="Vgostyakhuskazki.ru@SD",V gostyakh u skazki (576p)
@@ -1235,6 +1247,8 @@ https://cdn15.live-tv.cloud/ua_infinitas_tv/news24-abr/playlist.m3u8
 https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="ART.ru@SD",ART (576p)
 http://89.104.114.24:8080/art/index.m3u8
+#EXTINF:-1 group-title="Новости" tvg-id="ART.ru@SD",ART (576p)
+http://185.23.80.23:8080/ART/index.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="Avto24.ru@SD",Avto24 (576p)
 http://stream.mcquack.net/78/index.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="BamBarBiaTV.ua@SD",BamBarBia TV (720p) [Not 24/7]
