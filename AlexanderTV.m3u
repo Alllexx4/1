@@ -718,6 +718,8 @@ http://stream.mcquack.net/485/index.m3u8
 https://api-tv.ipnet.ua/api/v1/manifest/2118742594.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="EspresoTV.ua@SD",Espreso TV (1080p)
 https://dash2.antik.sk/live/test_espresso/playlist.m3u8
+#EXTINF:-1 group-title="Украина" tvg-id="Fashion.ua@SD",Fashion (1080p)
+http://stream.mcquack.net/288/index.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="FashionTV.ua@SD",Fashion TV (1080p)
 http://stream.mcquack.net/287/index.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="Fauna.ua@SD",Fauna (576p)
@@ -839,6 +841,12 @@ https://lowa8026-cmyk.github.io/Ukraine/Edyni_Novyny/RADA.m3u8
 http://stream.mcquack.net/463/index.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="RAZ2.ua@SD",RAZ 2 (1080p)
 http://stream.mcquack.net/464/index.m3u8
+#EXTINF:-1 group-title="Украина" tvg-id="RAZ3.ua@SD",RAZ 3 (720p)
+#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g2NS90cmFja3MtdjJhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDcxMDcwMCZzdD1MXzZYc2M4elNra3RCaWYyVzU1dWF3&master=180
+#EXTINF:-1 group-title="Украина" tvg-id="RAZ3International.ua@SD",RAZ 3 International
+https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="RenomeTV.ua@SD",Renome (576p)
 http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="Rybalka.ua@SD",Rybalka (1080p)
@@ -1376,12 +1384,6 @@ http://stream.mcquack.net/48/index.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="KvartalTV.ua@SD",Kvartal TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://158.101.222.193:88/georgia_play.php?id=kvartal95
-#EXTINF:-1 group-title="Новости" tvg-id="KvartalTV.ua@SD",Kvartal TV (720p)
-#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g2NS90cmFja3MtdjJhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDcxMDcwMCZzdD1MXzZYc2M4elNra3RCaWYyVzU1dWF3&master=180
-#EXTINF:-1 group-title="Новости" tvg-id="KvartalTVInternational.ua@SD",Kvartal TV International
-https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="Mir24.ru@SD",Mir 24
 https://stream8.cinerama.uz/1219/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="Mir24.ru@SD",Mir 24 (576p)
