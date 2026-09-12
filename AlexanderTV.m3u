@@ -180,6 +180,8 @@ http://stream.mcquack.net/184/index.m3u8
 http://stream.mcquack.net/420/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="FashionLifeStyle.ru@SD",Fashion&LifeStyle (1080p)
 http://stream.mcquack.net/119/index.m3u8
+#EXTINF:-1 group-title="Россия" tvg-id="FashionTV.ru@SD",FashionTV (1080p)
+http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="FoodTime.ru@SD",FoodTime (1080p)
 http://stream.mcquack.net/216/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="Fox.ru@SD",Fox (576p)
