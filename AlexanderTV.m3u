@@ -2204,8 +2204,6 @@ https://fs.uplink.kz/moskva24/mono.m3u8?token=onlinetv
 https://stream.smotrim.ru/hls2/givc9/playlist_4.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="",Musayof (Israel) (240p) [Not 24/7]
 http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Новости" tvg-id="PLUSPLUS.ua@HD",PLUSPLUS HD (1080p) [Not 24/7]
-https://iptv.prosto.tv/ch066/index.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="RT.ru@SD",RT (720p)
 http://212.5.144.156:8080/rt/index.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="RTBalkan.ru@SD",RT Balkan (1080p)
