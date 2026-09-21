@@ -2240,6 +2240,8 @@ https://shift03.isp.bg/RTVi/index.m3u8
 http://str2.iptvhd.ru:8080/RTVi/index.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="Russia24.ru@SD",Russia-24
 https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Новости" tvg-id="Russia24.ru@SD",Russia-24
+http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA24_INT.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="Russia24.ru@SD",Russia-24 (576p)
 https://fs.uplink.kz/rossia_24/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Новости" tvg-id="Russia24.ru@SD",Russia-24 (576p)
