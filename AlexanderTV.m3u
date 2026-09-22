@@ -37,6 +37,8 @@ https://fs.uplink.kz/365_dney/mono.m3u8?token=onlinetv
 http://str2.iptvhd.ru:8080/365_dney/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="5minuttishiny.ru@SD",5 minut tishiny (1080p)
 https://cdn-dvr.ntv.ru/5_minut_tishiny/index.m3u8
+#EXTINF:-1 group-title="Россия" tvg-id="6TVGorlovka.ru@SD",6 TV Gorlovka (720p) [Geo-blocked]
+http://91.214.48.158:4022/udp/224.2.2.4:10000
 #EXTINF:-1 group-title="Россия" tvg-id="A2.ru@SD",A2 (576p)
 http://str2.iptvhd.ru:8080/Amedia_2/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="Afontovo.ru@SD",Afontovo
@@ -481,6 +483,8 @@ https://fs.uplink.kz/nostalgia/mono.m3u8?token=onlinetv
 http://176.118.197.101/Nostalgiya/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="Nostalgia.ru@SD",Nostalgia (576p)
 http://str2.iptvhd.ru:8080/Nostalgiya/index.m3u8
+#EXTINF:-1 group-title="Россия" tvg-id="NovorossiyaTV.ru@SD",Novorossiya TV (1080p) [Geo-blocked]
+http://31.131.139.253:9002/novoros/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="NST.ru@SD",NST (576p)
 http://hls127.freeott.top:8080/HCTV/video.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="NST.ru@SD",NST (576p)
@@ -553,6 +557,8 @@ http://stream.mcquack.net/155/index.m3u8
 http://stream.mcquack.net/491/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="OkkoFutbol.ru@SD",Okko Futbol (576p)
 http://178.124.179.122:8080/Setanta1/index.m3u8
+#EXTINF:-1 group-title="Россия" tvg-id="OplotTV.ru@SD",Oplot TV (1080p) [Geo-blocked]
+http://31.131.139.253:9002/oplot_hd/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="Oruzhie.ru@SD",Oruzhie (576p)
 https://fs.uplink.kz/oruzhie/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Россия" tvg-id="Oruzhie.ru@SD",Oruzhie (576p)
@@ -845,6 +851,8 @@ http://str2.iptvhd.ru:8080/TNT/index.m3u8
 http://45.153.24.78/TNT/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="TNT.ru@HD",TNT HD (1080p)
 http://str2.iptvhd.ru:8080/TNTHD/index.m3u8
+#EXTINF:-1 group-title="Россия" tvg-id="TNTInternational.ru@Belarus",TNT International Belarus (1080p)
+http://05cea6e8.ucomist.net/iptv/VK7YCHHWNDD8XC/15230/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="TNT.ru@SD",TNT SD (576p)
 http://stream.mcquack.net/135/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="TNT4.ru@SD",TNT4 (576p)
