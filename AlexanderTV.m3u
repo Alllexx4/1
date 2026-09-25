@@ -1568,6 +1568,8 @@ http://str2.iptvhd.ru:8080/sport5gold/index.m3u8
 http://str2.iptvhd.ru:8080/5live/index.m3u8
 #EXTINF:-1 group-title="Израиль" tvg-id="5Plus.il@SD",5Plus (1080p)
 http://89.33.29.115:8080/sportplus/index.m3u8
+#EXTINF:-1 group-title="Израиль" tvg-id="5Stars.il@SD",5Stars (1080p)
+http://89.33.29.115:8080/IL_5Stars/index.m3u8
 #EXTINF:-1 group-title="Израиль" tvg-id="Channel13.il@SD",Channel 13 (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/295/index.m3u8
@@ -1997,6 +1999,10 @@ http://str2.iptvhd.ru:8080/Sport_2/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="Sport3.ua@SD",Sport 3 (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/393/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="Sport3.il@SD",Sport 3 (1080p)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BWGFFCU59AE6AEV3KF3FXTBA/12251/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="Sport4.il@SD",Sport 4 (1080p)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BWGFFCU59AE6AEV3KF3FXTBA/2389/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="Sport4.ua@SD",Sport 4 (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/394/index.m3u8
@@ -2188,12 +2194,12 @@ https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 http://89.104.114.24:8080/art/index.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="ART.ru@SD",ART (576p)
 http://185.23.80.23:8080/ART/index.m3u8
+#EXTINF:-1 group-title="Новости" tvg-id="Avto24.ru@SD",Avto24 (1080i)
+http://str2.iptvhd.ru:8080/Avto_24/index.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="Avto24.ru@SD",Avto24 (576p)
 http://stream.mcquack.net/78/index.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="Avto24.ru@SD",Avto24 (576p)
 https://fs.uplink.kz/avto24/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Новости" tvg-id="Avto24.ru@SD",Avto24 (576p)
-http://str2.iptvhd.ru:8080/Avto_24/index.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="BamBarBiaTV.ua@SD",BamBarBia TV (720p) [Not 24/7]
 http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="Channel24.il@SD",Channel 24 (1080p)
