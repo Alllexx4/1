@@ -23,6 +23,8 @@ http://185.23.80.23:8080/2x2/index.m3u8
 http://176.118.197.101/2x2/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="2x2.ru@SD",2x2 SD (576p)
 http://stream.mcquack.net/187/index.m3u8
+#EXTINF:-1 group-title="Россия" tvg-id="360.ru@SD",360°
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="360.ru@SD",360° (1080p)
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="360.ru@SD",360° (576p) [Geo-blocked]
@@ -175,6 +177,8 @@ http://45.145.32.13:20440/pervyj_kanal/index.m3u8?token=test
 http://str2.iptvhd.ru:8080/Pervikanal/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="ChannelOneCIS.ru@SD",Channel One CIS (576p)
 https://fs.uplink.kz/perviy_kanal_sng/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Россия" tvg-id="ChannelOne.ru@Europa",Channel One Europa (480p)
+https://streaming.thestream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="ChannelOne.ru@HD",Channel One HD (720p)
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="Россия" tvg-id="ChannelOne.ru@HD",Channel One HD (720p)
@@ -1414,9 +1418,6 @@ https://cdn15.live-tv.cloud/ua_infinitas_tv/hrpl-abr/playlist.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="QuizTV.ua@SD",Quiz TV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/397/index.m3u8
-#EXTINF:-1 group-title="Украина" tvg-id="RadaTV.ua@SD",Rada TV (1080p)
-#EXTVLCOPT:http-user-agent=curl/8.16.0
-https://lowa8026-cmyk.github.io/Ukraine/Edyni_Novyny/RADA.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="RAZ1.ua@SD",RAZ 1 (1080p)
 http://stream.mcquack.net/463/index.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="RAZ2.ua@SD",RAZ 2 (1080p)
