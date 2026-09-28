@@ -859,6 +859,8 @@ http://str2.iptvhd.ru:8080/TNT/index.m3u8
 http://45.153.24.78/TNT/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="TNT.ru@HD",TNT HD (1080p)
 http://str2.iptvhd.ru:8080/TNTHD/index.m3u8
+#EXTINF:-1 group-title="Россия" tvg-id="TNTInternational.ru@Europe",TNT International (480p)
+http://91.228.35.249:8001/1:0:1:6a7:3138:13e:820000:0:0:0:
 #EXTINF:-1 group-title="Россия" tvg-id="TNTInternational.ru@Belarus",TNT International Belarus (1080p)
 http://05cea6e8.ucomist.net/iptv/VK7YCHHWNDD8XC/15230/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="TNT.ru@SD",TNT SD (576p)
@@ -1267,6 +1269,9 @@ http://stream.mcquack.net/396/index.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="EkoTV.ua@SD",Eko TV (720p)
 #EXTVLCOPT:http-user-agent=curl/8.16.0
 https://ext.cdn.nashnet.tv/228.0.1.60/index.m3u8
+#EXTINF:-1 group-title="Украина" tvg-id="eQtv.ua@Russian",eQtv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://91.228.35.249:8001/1:0:1:72:2FA8:13E:820000:0:0:0
 #EXTINF:-1 group-title="Украина" tvg-id="Equalympic.ua@SD",Equalympic (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/485/index.m3u8
@@ -2235,6 +2240,8 @@ https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="KnessetChannel.il@SD",Knesset Channel (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/48/index.m3u8
+#EXTINF:-1 group-title="Новости" tvg-id="Kuban24.ru@MaikopskoyeTelevidenie",Kuban 24 (480p) [Geo-blocked]
+http://dmi3y-tv.online/hls/zabava/region/MAYK/CH_MAYKOP.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="KvartalTV.ua@SD",Kvartal TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://158.101.222.193:88/georgia_play.php?id=kvartal95
