@@ -2200,6 +2200,8 @@ http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 https://cdn15.live-tv.cloud/ua_infinitas_tv/news24-abr/playlist.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="Channel24.ua@SD",24 Канал (1080p)
 https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Новости" tvg-id="360News.ru@SD",360° Новости
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/index.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="ART.ru@SD",ART (576p)
 http://89.104.114.24:8080/art/index.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="ART.ru@SD",ART (576p)
