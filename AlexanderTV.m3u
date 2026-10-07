@@ -1645,6 +1645,8 @@ http://89.33.29.115:8080/IL_5Stars/index.m3u8
 #EXTINF:-1 group-title="Израиль" tvg-id="Channel13.il@SD",Channel 13 (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/295/index.m3u8
+#EXTINF:-1 group-title="Израиль" tvg-id="Channel16.il@SD",Channel 16
+https://ch16israel-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
 #EXTINF:-1 group-title="Израиль" tvg-id="Channel9.il@SD",Channel 9 (1080p)
 https://contact.gostreaming.tv/Con-11/index.m3u8
 #EXTINF:-1 group-title="Израиль" tvg-id="ComedyChannel.il@SD",Comedy Channel (1080p)
@@ -1931,6 +1933,8 @@ http://stream.mcquack.net/110/index.m3u8
 https://fs.uplink.kz/viju_tv1000/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Кино" tvg-id="vijuTV1000.ru@SD",viju TV1000 (576p)
 http://str2.iptvhd.ru:8080/TV1000/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="vijuTV1000.ru@SD",viju TV1000 (576p)
+http://46.53.200.153:7777/play/TV_1000/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vijuTV1000action.ru@SD",viju TV1000 action
 https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vijuTV1000action.ru@SD",viju TV1000 action (576p)
@@ -1939,6 +1943,12 @@ http://stream.mcquack.net/100/index.m3u8
 https://fs.uplink.kz/viju_tv1000_action/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Кино" tvg-id="vijuTV1000action.ru@SD",viju TV1000 action (576p)
 http://str2.iptvhd.ru:8080/TV1000_Action/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="vijuTV1000action.ru@SD",viju TV1000 action (576p)
+http://46.53.200.153:7777/play/a01h/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="vijuTV1000novella.ru@HD",viju TV1000 novella HD (1080p)
+http://46.53.200.153:7777/play/VIJU_TV_1000_novella/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="vijuTV1000romantica.ru@HD",viju TV1000 romantica HD (1080p)
+http://46.53.200.153:7777/play/Viju_Drama/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vijuTV1000russkoe.ru@SD",viju TV1000 russkoe
 https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vijuTV1000russkoe.ru@SD",viju TV1000 russkoe
@@ -1947,6 +1957,8 @@ https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8
 https://fs.uplink.kz/viju_tv1000_russkoe/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Кино" tvg-id="vijuTV1000russkoe.ru@SD",viju TV1000 russkoe (576p)
 http://str2.iptvhd.ru:8080/TV1000russkoekino/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="vijuTV1000russkoe.ru@SD",viju TV1000 russkoe (576p)
+http://46.53.200.153:7777/play/a01g/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="YesMoviesAction.il@SD",Yes Movies Action (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/380/index.m3u8
