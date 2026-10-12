@@ -1015,16 +1015,12 @@ https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="1Plus1Ukraina.ua@SD",1+1 Ukraina (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://stream.mcquack.net/219/index.m3u8
-#EXTINF:-1 group-title="Украина" tvg-id="1Plus1Ukraina.ua@SD",1+1 Ukraina (576p)
-http://str2.iptvhd.ru:8080/1plus1/index.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="Channel11.ua@SD",11 Kanal (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 https://11tv-dp.cdn-04.cosmonova.net.ua/hls/11tv-dp_ua_hi/index.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="2Plus2.ua@SD",2+2 (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/173/index.m3u8
-#EXTINF:-1 group-title="Украина" tvg-id="2Plus2.ua@SD",2+2 (576p)
-http://str2.iptvhd.ru:8080/2plus2/index.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="2Plus2Marathon.ua@SD",2+2 Marathon (1080p)
 https://lowa8026-cmyk.github.io/Ukraine/Edyni_Novyny/2Plus2Marafon.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="366TV.ua@SD",36.6 TV
@@ -1117,8 +1113,6 @@ http://stream.mcquack.net/485/index.m3u8
 https://api-tv.ipnet.ua/api/v1/manifest/2118742594.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="EspresoTV.ua@SD",Espreso TV (1080p)
 https://dash2.antik.sk/live/test_espresso/playlist.m3u8
-#EXTINF:-1 group-title="Украина" tvg-id="EspresoTV.ua@SD",Espreso TV (1080p)
-http://str2.iptvhd.ru:8080/EspresoTVUA/index.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="Fashion.ua@SD",Fashion (1080p)
 http://stream.mcquack.net/288/index.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="FashionTV.ua@SD",Fashion TV (1080p)
@@ -1137,8 +1131,6 @@ https://kie2.cdn.i-ua.tv/hlsme/iuatv.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="ICTV.ua@SD",ICTV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/158/index.m3u8
-#EXTINF:-1 group-title="Украина" tvg-id="ICTV.ua@SD",ICTV (1080p)
-http://str2.iptvhd.ru:8080/ICTV/index.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="ICTV2.ua@SD",ICTV2 (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/368/index.m3u8
@@ -1148,8 +1140,6 @@ http://stream.mcquack.net/147/index.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="Inter.ua@SD",Inter (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/174/index.m3u8
-#EXTINF:-1 group-title="Украина" tvg-id="Inter.ua@SD",Inter (1080p)
-http://str2.iptvhd.ru:8080/Inter/index.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="InterPlus.ua@SD",Inter+ (720p)
 https://cdn15.live-tv.cloud/ua_infinitas_tv/inter-abr/playlist.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="Islandia.ua@SD",Islandia (720p)
@@ -1224,8 +1214,6 @@ rtmp://95.67.11.153/klive/stream
 https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="NTN.ua@SD",NTN (1080p)
 http://stream.mcquack.net/326/index.m3u8
-#EXTINF:-1 group-title="Украина" tvg-id="NTN.ua@SD",NTN (1080p)
-http://str2.iptvhd.ru:8080/NTN/index.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="ObozrevatelTV.ua@SD",Obozrevatel TV
 #EXTVLCOPT:http-user-agent=curl/8.16.0
 https://ext.cdn.nashnet.tv/228.0.0.148/index.m3u8
@@ -1267,8 +1255,6 @@ https://cdn15.live-tv.cloud/ua_infinitas_tv/rada-abr/playlist.m3u8
 http://stream.mcquack.net/463/index.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="RAZ2.ua@SD",RAZ 2 (1080p)
 http://stream.mcquack.net/464/index.m3u8
-#EXTINF:-1 group-title="Украина" tvg-id="RAZ3.ua@SD",RAZ 3 (576p)
-http://str2.iptvhd.ru:8080/UA_kvartal/index.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="RAZ3.ua@SD",RAZ 3 (720p)
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
@@ -1296,8 +1282,6 @@ http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTI1LjI
 #EXTINF:-1 group-title="Украина" tvg-id="STB.ua@SD",STB (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/156/index.m3u8
-#EXTINF:-1 group-title="Украина" tvg-id="STB.ua@SD",STB (1080p)
-http://str2.iptvhd.ru:8080/STB/index.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="SuperPlus.ua@SD",Super+ (360p)
 http://dtv.vol.net.ua/super_plus/index.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="SuspilneDonbas.ua@SD",Suspilne. Donbas (576p)
@@ -1328,8 +1312,6 @@ http://stream.mcquack.net/402/index.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="TET.ua@SD",TET (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/338/index.m3u8
-#EXTINF:-1 group-title="Украина" tvg-id="TET.ua@SD",TET (1080p)
-http://str2.iptvhd.ru:8080/TET/index.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="TISTV.ua@SD",TIS TV (720p)
 https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="TRKIldana.ua@SD",TRK Ildana (720p)
@@ -1408,10 +1390,6 @@ https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8
 http://46.175.163.130/ks_plus/index.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="ChPinfo.ua@SD",ЧП Инфо (576p)
 http://edge3.iptv.macc.com.ua/life/magnolia_3/index.m3u8
-#EXTINF:-1 group-title="Израиль" tvg-id="5Gold.il@SD",5Gold (1080p)
-http://str2.iptvhd.ru:8080/sport5gold/index.m3u8
-#EXTINF:-1 group-title="Израиль" tvg-id="5Live.il@SD",5Live (1080p)
-http://str2.iptvhd.ru:8080/5live/index.m3u8
 #EXTINF:-1 group-title="Израиль" tvg-id="5Plus.il@SD",5Plus (1080p)
 http://89.33.29.115:8080/sportplus/index.m3u8
 #EXTINF:-1 group-title="Израиль" tvg-id="5Stars.il@SD",5Stars (1080p)
@@ -1425,8 +1403,6 @@ https://ch16israel-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
 https://contact.gostreaming.tv/Con-11/index.m3u8
 #EXTINF:-1 group-title="Израиль" tvg-id="ComedyChannel.il@SD",Comedy Channel (1080p)
 https://d15ds134q59udk.cloudfront.net/out/v1/fbba879221d045598540ee783b140fe2/index.m3u8
-#EXTINF:-1 group-title="Израиль" tvg-id="FoodChannel.il@SD",Food Channel (1080p)
-http://str2.iptvhd.ru:8080/FoodChannel/index.m3u8
 #EXTINF:-1 group-title="Израиль" tvg-id="GoodLife.il@SD",Good Life (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/47/index.m3u8
@@ -1434,20 +1410,12 @@ http://stream.mcquack.net/47/index.m3u8
 http://89.33.29.115:8080/Health/index.m3u8
 #EXTINF:-1 group-title="Израиль" tvg-id="Hidabroot.il@SD",Hidabroot (1080p)
 https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
-#EXTINF:-1 group-title="Израиль" tvg-id="HomePlus.il@SD",Home + (576p)
-http://str2.iptvhd.ru:8080/home_plus/index.m3u8
-#EXTINF:-1 group-title="Израиль" tvg-id="HOTComedy.il@SD",HOT Comedy (1080p)
-http://str2.iptvhd.ru:8080/HOTComedy/index.m3u8
 #EXTINF:-1 group-title="Израиль" tvg-id="HOTDrama.il@SD",HOT Drama (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/381/index.m3u8
-#EXTINF:-1 group-title="Израиль" tvg-id="HOTSenior.il@SD",HOT Senior (1080p)
-http://str2.iptvhd.ru:8080/HOT_Senior/index.m3u8
 #EXTINF:-1 group-title="Израиль" tvg-id="HOTZone.il@SD",HOT Zone (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/379/index.m3u8
-#EXTINF:-1 group-title="Израиль" tvg-id="HOT8.il@SD",HOT8 (1080p)
-http://str2.iptvhd.ru:8080/channel8/index.m3u8
 #EXTINF:-1 group-title="Израиль" tvg-id="Kan11.il@SD",Kan 11 (1080p)
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 #EXTINF:-1 group-title="Израиль" tvg-id="KanEducational.il@SD",Kan Educational (720p)
@@ -1455,14 +1423,10 @@ http://stream.mcquack.net/378/index.m3u8
 #EXTINF:-1 group-title="Израиль" tvg-id="Keshet12.il@SD",Keshet 12 (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/294/index.m3u8
-#EXTINF:-1 group-title="Израиль" tvg-id="Luli.il@SD",Luli (1080p)
-http://str2.iptvhd.ru:8080/HOT_Luli/index.m3u8
 #EXTINF:-1 group-title="Израиль" tvg-id="Makan33.il@SD",Makan 33 (1080p)
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
 #EXTINF:-1 group-title="Израиль" tvg-id="Now14.il@SD",Now 14 (1080p)
 https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
-#EXTINF:-1 group-title="Израиль" tvg-id="One2.il@SD",One 2 (1080p)
-http://str2.iptvhd.ru:8080/One/index.m3u8
 #EXTINF:-1 group-title="Израиль" tvg-id="RealityChannel.il@SD",Reality Channel
 https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index_1.m3u8
 #EXTINF:-1 group-title="Израиль" tvg-id="Channel13.il@SD",Reshet 13 (720p)
@@ -1471,19 +1435,13 @@ https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/in
 https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8
 #EXTINF:-1 group-title="Израиль" tvg-id="VacationChannel.il@SD",Vacation Channel
 https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index_2.m3u8
-#EXTINF:-1 group-title="Израиль" tvg-id="VivaIstanbul.il@SD",Viva Istanbul (1080p)
-http://str2.iptvhd.ru:8080/viva_plus/index.m3u8
 #EXTINF:-1 group-title="Израиль" tvg-id="VivaPremium.il@SD",Viva Premium (1080p)
 http://stream.mcquack.net/43/index.m3u8
-#EXTINF:-1 group-title="Израиль" tvg-id="VivaTelenovelas.il@SD",Viva Telenovelas (1080p)
-http://str2.iptvhd.ru:8080/VIVA/index.m3u8
 #EXTINF:-1 group-title="Израиль" tvg-id="YamTichoni.il@SD",Yam Tichoni (1080p)
 http://stream.mcquack.net/46/index.m3u8
 #EXTINF:-1 group-title="Израиль" tvg-id="Zoom.il@SD",Zoom (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/377/index.m3u8
-#EXTINF:-1 group-title="Израиль" tvg-id="Zoom.il@SD",Zoom (576p)
-http://str2.iptvhd.ru:8080/zoom/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="4everCinema.ua@SD",4ever Cinema (1080p)
 http://stream.mcquack.net/258/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="Cinema.ru@SD",Cinema
@@ -1509,8 +1467,6 @@ https://fs.uplink.kz/dom_kino_premium/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Кино" tvg-id="EnterFilm.ua@SD",Enter-Film (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/322/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="EnterFilm.ua@SD",Enter-Film (1080p)
-http://str2.iptvhd.ru:8080/enter_film_ua/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="Evrokino.ru@SD",Evrokino (576p)
 https://fs.uplink.kz/eurokino/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Кино" tvg-id="Evrokino.ru@SD",Evrokino (576p)
@@ -1526,14 +1482,6 @@ https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8
 http://88.99.215.227/FilmUADrama/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="HorosheeKino.ru@SD",Horoshee Kino (720p)
 https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="HOTCinema1.il@SD",HOT Cinema 1 (1080p)
-http://str2.iptvhd.ru:8080/Gold/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="HOTCinema2.il@SD",HOT Cinema 2 (1080p)
-http://str2.iptvhd.ru:8080/action/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="HOTCinema3.il@SD",HOT Cinema 3 (1080p)
-http://str2.iptvhd.ru:8080/fun/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="HOTCinema4.il@SD",HOT Cinema 4 (1080p)
-http://str2.iptvhd.ru:8080/drama/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="IndiyskoyeKino.ru@SD",Indiyskoye Kino
 https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="IndiyskoyeKino.ru@SD",Indiyskoye Kino (576p)
@@ -1714,14 +1662,14 @@ http://stream.mcquack.net/80/index.m3u8
 http://dtv.vol.net.ua/History_HD/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="History2Ukraine.ua@SD",History2 Ukraine (360p)
 http://dtv.vol.net.ua/H2-HD/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="TravelChannel.ru@SD",Travel Channel (1080p)
+http://stream.mcquack.net/231/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="TravelPlusAdventure.ru@SD",Travel+Adventure (576p)
 http://45.145.32.13:20440/travel_adventure/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные" tvg-id="TravelPlusAdventure.ru@HD",Travel+Adventure HD (1080p)
 http://stream.mcquack.net/206/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="TravelPlusAdventure.ru@HD",Travel+Adventure HD (1080p)
 http://77.232.131.211/TravelAdventureHD/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-id="UTravel.ua@SD",U Travel (1080p)
-http://str2.iptvhd.ru:8080/travel/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="UniverTV.ru@SD",Univer TV (1080p)
 https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="UniverTV.ru@SD",Univer TV (1080p) [Not 24/7]
@@ -1754,10 +1702,6 @@ http://46.53.200.153:7777/play/a01k/index.m3u8
 https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="Zoopark.ru@SD",Zoopark (576p)
 https://fs.uplink.kz/zoopark/mono.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Спорт" tvg-id="5Sport.il@SD",5Sport (1080p)
-http://str2.iptvhd.ru:8080/5sport/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="5Sport4K.il@SD",5Sport 4K (2160p)
-http://str2.iptvhd.ru:8080/5SPORT_4K/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="DiviSport.ua@SD",DiviSport (1080p)
 http://stream.mcquack.net/457/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="ExtremeSportsChannel.ru@SD",Extreme Sports Channel (576p)
@@ -1797,21 +1741,15 @@ http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia
 #EXTINF:-1 group-title="Спорт" tvg-id="SetantaSportsPlusUkraine.ua@SD",Setanta Sports+ Ukraine (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/390/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="SetantaSportsPlusUkraine.ua@SD",Setanta Sports+ Ukraine (1080p)
-http://str2.iptvhd.ru:8080/Setanta_SportsHD_UA/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="Sport1.ua@SD",Sport 1 (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/391/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="Sport1.ua@SD",Sport 1 (576p)
-http://str2.iptvhd.ru:8080/sport1/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="Sport1Baltic.ua@SD",Sport 1 Baltic (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/461/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="Sport2.ua@SD",Sport 2 (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/392/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="Sport2.il@SD",Sport 2 (1080p)
-http://str2.iptvhd.ru:8080/Sport_2/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="Sport3.ua@SD",Sport 3 (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/393/index.m3u8
@@ -1930,15 +1868,11 @@ http://stream.mcquack.net/281/index.m3u8
 http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNzUvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI5MDYmc3Q9TUtpMWlxbmN6NGFDdjRrdmN0TkVtUQ%3D%3D&master=540
 #EXTINF:-1 group-title="Детские" tvg-id="CinePlusKids.ua@SD",Cine+ Kids (576p)
 http://dtv.vol.net.ua/Cine_plus_Kids_HD/index.m3u8
-#EXTINF:-1 group-title="Детские" tvg-id="DisneyChannel.il@SD",Disney Channel (576p)
-http://str2.iptvhd.ru:8080/disney/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="Hop.il@SD",Hop! (1080p)
 http://stream.mcquack.net/44/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="HopeChannelUkraine.ua@SD",Hope Channel Ukraine
 #EXTVLCOPT:http-user-agent=curl/8.16.0
 https://ext.cdn.nashnet.tv/228.0.0.172/index.m3u8
-#EXTINF:-1 group-title="Детские" tvg-id="Junior.il@SD",Junior (1080p)
-http://str2.iptvhd.ru:8080/junior/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="Multilandia.ru@SD",Multilandia
 https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="Multilandia.ru@SD",Multilandia (576p)
@@ -1947,8 +1881,6 @@ https://fs.uplink.kz/multilandia/mono.m3u8?token=onlinetv
 http://stream.mcquack.net/220/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="NickJr.ru@SD",Nick Jr. (576p)
 https://stream8.cinerama.uz/1501/playlist.m3u8
-#EXTINF:-1 group-title="Детские" tvg-id="NickJr.il@SD",Nick Jr. (576p)
-http://str2.iptvhd.ru:8080/nickjr/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="Nickelodeon.ru@SD",Nickelodeon (576p)
 http://stream.mcquack.net/443/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="NicktoonsCIS.ru@SD",Nicktoons CIS (1080p)
