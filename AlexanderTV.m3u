@@ -519,6 +519,8 @@ https://streaming.astrakhan.ru/proastrakhanhd/index.m3u8
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="Prosveshchenie.ru@SD",Prosveshchenie (576p)
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
+#EXTINF:-1 group-title="Россия" tvg-id="Quadro.ru@4K",Quadro (2160p)
+http://57.128.231.171:8080/316/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="Radio1.ru@SD",Radio 1 (720p) [Geo-blocked]
 https://stream.radio1.ru/memfs/49dee7fe-77ba-4e6b-8cdc-fa840535b242.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="RadioRossii.ru@HD",Radio Rossii (720p)
