@@ -463,8 +463,6 @@ https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
 http://stream.mcquack.net/155/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="OkkoFutbol.ru@SD",Okko Futbol (576p)
 http://178.124.179.122:8080/Setanta1/index.m3u8
-#EXTINF:-1 group-title="Россия" tvg-id="Oplot2.ru@SD",Oplot 2 (720p) [Geo-blocked]
-http://iptv.mega.net.ru:8888/Oplot_2/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="OplotTV.ru@SD",Oplot TV (1080p) [Geo-blocked]
 http://31.131.139.253:9002/oplot_hd/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="OplotTV.ru@Khartsyzsk",Oplot TV (1080p) [Geo-blocked]
