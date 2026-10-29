@@ -1630,6 +1630,8 @@ http://stream.mcquack.net/487/index.m3u8
 srt://87.245.216.208:5001
 #EXTINF:-1 group-title="Спорт" tvg-id="MaincastSport.ua@SD",Maincast Sport (1080p)
 http://stream.mcquack.net/490/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="MEGOGOSport.ua@SD",MEGOGO Sport (1080p)
+http://5.188.159.128:8070/megogo_sport/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="OkkoPrajmSport.ru@SD",Okko Prajm Sport (1080p)
 http://stream.mcquack.net/493/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="SetantaSports1.ru@SD",Setanta Sports 1
