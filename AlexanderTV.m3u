@@ -244,6 +244,8 @@ http://flussonic.linkintel.ru/gulli_girl/index.m3u8
 https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="Hit.ru@HD",Hit HD (1080p)
 http://stream.mcquack.net/363/index.m3u8
+#EXTINF:-1 group-title="Россия" tvg-id="Home4K.ru@SD",Home 4K
+http://88.212.7.14/live/test_home_uhd_tizen/playlist.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="IllusionPlus.ru@SD",Illusion+ (576p)
 http://176.118.197.101/Illuzion+/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="India.ru@SD",India (576p)
