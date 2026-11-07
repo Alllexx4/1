@@ -349,8 +349,6 @@ https://fs.uplink.kz/mma/mono.m3u8?token=onlinetv
 https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="Moymir.ru@SD",Moy mir (720p)
 https://moymir.ru/hls/onair.m3u8
-#EXTINF:-1 group-title="Россия" tvg-id="MoyaPlaneta.ru@SD",Moya Planeta (1080p)
-http://91.226.120.120/chid210/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="MoyaPlaneta.ru@SD",Moya Planeta (576p)
 http://stream.mcquack.net/124/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="MoyaPlaneta.ru@SD",Moya Planeta (576p)
@@ -369,6 +367,8 @@ https://fs.uplink.kz/mult/mono.m3u8?token=onlinetv
 http://stream.mcquack.net/419/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="Nano.ru@HD",Nano HD (1080p)
 http://185.23.80.23:8080/NANO_HD/index.m3u8
+#EXTINF:-1 group-title="Россия" tvg-id="NashaTema.ru@SD",Nasha Tema (1080p)
+https://fonbet.mediacdn.ru/live/nashatema/playlist.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="Nashe.ru@HD",Nashe HD (576p)
 http://stream.mcquack.net/217/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="NationalGeographic.ru@SD",National Geographic (1080p)
@@ -639,6 +639,8 @@ http://stream.mcquack.net/314/index.m3u8
 https://fs.uplink.kz/telecafe/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Россия" tvg-id="TeleDom.ru@SD",TeleDom
 https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
+#EXTINF:-1 group-title="Россия" tvg-id="TheExplorers.ru@SD",The Explorers (1080p)
+https://sofast-yupptv.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4804aca3-dd54-43d1-8caa-0b836a76d9e9/manifest.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="TLC.ru@SD",TLC (1080p)
 http://stream.mcquack.net/168/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="TNT.ru@SD",TNT (576p)
@@ -785,6 +787,8 @@ https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8
 http://178.134.1.158:8081/vkus/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="VmesteRF.ru@SD",Vmeste-RF (576p) [Geo-blocked]
 https://streaming.thestream.cyou/live/7006.m3u8
+#EXTINF:-1 group-title="Россия" tvg-id="Volleyball.ru@SD",Volleyball (1080p)
+https://fonbet.mediacdn.ru/live/volleyball/playlist.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="VoprosyiOtvety.ru@SD",Voprosy i Otvety (576p)
 http://stream.mcquack.net/76/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="Vremya.ru@SD",Vremya (576p)
@@ -1704,6 +1708,8 @@ https://fs.uplink.kz/muz_tv/mono.m3u8?token=onlinetv
 http://stream.mcquack.net/107/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="Muzhskoekino.ru@SD",Muzhskoe kino (576p)
 https://fs.uplink.kz/muzhskoe_kino/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Музыка" tvg-id="Muzhskoy.ru@HD",Muzhskoy HD (1080p)
+https://fonbet.mediacdn.ru/live/muzhskoi/playlist.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="Muzvar.ua@SD",Muzvar (1080p)
 https://cdn15.live-tv.cloud/ua_infinitas_tv/muzvar-abr/playlist.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="MuzykaLive.ru@SD",Muzyka Live (576p)
