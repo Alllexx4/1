@@ -543,6 +543,8 @@ http://stream.mcquack.net/204/index.m3u8
 http://stream.mcquack.net/266/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="Russkiyroman.ru@SD",Russkiy roman (576p)
 https://vod.tuva.ru/rusroman/index.m3u8
+#EXTINF:-1 group-title="Россия" tvg-id="Rybalkaiokhota.ru@SD",Rybalka i okhota (576p)
+https://fs.uplink.kz/ohota_i_ribalka/index.m3u8?token=onlinetv2
 #EXTINF:-1 group-title="Россия" tvg-id="Rybolov.ru@SD",Rybolov (576p)
 http://stream.mcquack.net/264/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="SanktPeterburg.ru@HD",Sankt-Peterburg HD (720p)
@@ -933,9 +935,6 @@ http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 https://uiptv.do.am/1ufc/602079679/playlist.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="Yuvelirochka.ru@SD",Ювелирочка ТВ (576p)
 https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
-#EXTINF:-1 group-title="Украина" tvg-id="1Plus1International.ua@SD",1+1 International
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://158.101.222.193:88/georgia_play.php?id=1plus1international
 #EXTINF:-1 group-title="Украина" tvg-id="1Plus1International.ua@HD",1+1 International HD (720p)
 https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="1Plus1Marafon.ua@SD",1+1 Marafon (1080p)
@@ -1103,9 +1102,6 @@ http://dtv.vol.net.ua/M1-HD/index.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="M1.ua@SD",M1 (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/218/index.m3u8
-#EXTINF:-1 group-title="Украина" tvg-id="M1.ua@SD",M1 (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://158.101.222.193:88/georgia_play.php?id=m1
 #EXTINF:-1 group-title="Украина" tvg-id="MasonTV.ua@SD",Mason TV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/346/index.m3u8
@@ -1636,12 +1632,6 @@ http://stream.mcquack.net/490/index.m3u8
 http://5.188.159.128:8070/megogo_sport/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="OkkoPrajmSport.ru@SD",Okko Prajm Sport (1080p)
 http://stream.mcquack.net/493/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="SetantaSports1.ru@SD",Setanta Sports 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
-#EXTINF:-1 group-title="Спорт" tvg-id="SetantaSports2.ru@SD",Setanta Sports 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia
 #EXTINF:-1 group-title="Спорт" tvg-id="SetantaSportsPlusUkraine.ua@SD",Setanta Sports+ Ukraine (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/390/index.m3u8
@@ -1779,9 +1769,6 @@ https://stream8.cinerama.uz/1501/playlist.m3u8
 http://stream.mcquack.net/443/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="NicktoonsCIS.ru@SD",Nicktoons CIS (1080p)
 https://stream8.cinerama.uz/1502/playlist.m3u8
-#EXTINF:-1 group-title="Детские" tvg-id="NikiJunior.ua@SD",Niki Junior
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://158.101.222.193:88/georgia_play.php?id=nikijunior
 #EXTINF:-1 group-title="Детские" tvg-id="NikiJunior.ua@SD",Niki Junior (1080p)
 http://stream.mcquack.net/262/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="NikiKids.ua@SD",Niki Kids (1080p)
@@ -1860,9 +1847,6 @@ https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
 http://stream.mcquack.net/48/index.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="Kuban24.ru@MaikopskoyeTelevidenie",Kuban 24 (480p) [Geo-blocked]
 http://dmi3y-tv.online/hls/zabava/region/MAYK/CH_MAYKOP.m3u8
-#EXTINF:-1 group-title="Новости" tvg-id="KvartalTV.ua@SD",Kvartal TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://158.101.222.193:88/georgia_play.php?id=kvartal95
 #EXTINF:-1 group-title="Новости" tvg-id="Mir24.ru@SD",Mir 24
 https://stream8.cinerama.uz/1219/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="Mir24.ru@SD",Mir 24 (576p)
