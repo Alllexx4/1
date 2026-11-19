@@ -783,6 +783,8 @@ http://stream.mcquack.net/311/index.m3u8
 https://live-11cinema.cdnvideo.ru/11cinema/11cinema/playlist.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="VIVARussia.ru@SD",VIVA Russia
 https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8
+#EXTINF:-1 group-title="Россия" tvg-id="VIVARussia.ru@SD",VIVA Russia (1080p)
+https://183.giatvcdn.com/ssh101/ssh101/vivarussia/playlist.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="Vkus.ru@SD",Vkus (576p)
 http://178.134.1.158:8081/vkus/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="VmesteRF.ru@SD",Vmeste-RF (576p) [Geo-blocked]
@@ -1302,28 +1304,32 @@ http://edge3.iptv.macc.com.ua/life/magnolia_3/index.m3u8
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_gold/live.livx/playlist.m3u8
 #EXTINF:-1 group-title="Израиль" tvg-id="5Live.il@SD",5Live
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_live/live.livx/playlist.m3u8
+#EXTINF:-1 group-title="Израиль" tvg-id="5Max.il@SD",5Max
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_max/live.livx/playlist.m3u8
 #EXTINF:-1 group-title="Израиль" tvg-id="5Plus.il@SD",5Plus
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_plus/live.livx/playlist.m3u8
-#EXTINF:-1 group-title="Израиль" tvg-id="5Plus.il@SD",5Plus (1080p)
-http://89.33.29.115:8080/sportplus/index.m3u8
 #EXTINF:-1 group-title="Израиль" tvg-id="5Stars.il@SD",5Stars
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_starz/live.livx/playlist.m3u8
-#EXTINF:-1 group-title="Израиль" tvg-id="5Stars.il@SD",5Stars (1080p)
-http://89.33.29.115:8080/IL_5Stars/index.m3u8
+#EXTINF:-1 group-title="Израиль" tvg-id="ArutzHaYeladim.il@SD",Arutz HaYeladim
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/kids_channel/live.livx/playlist.m3u8
 #EXTINF:-1 group-title="Израиль" tvg-id="Channel13.il@SD",Channel 13 (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/295/index.m3u8
 #EXTINF:-1 group-title="Израиль" tvg-id="Channel16.il@SD",Channel 16
 https://ch16israel-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
+#EXTINF:-1 group-title="Израиль" tvg-id="Channel16.il@SD",Channel 16
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/channel16/live.livx/playlist.m3u8
 #EXTINF:-1 group-title="Израиль" tvg-id="Channel9.il@SD",Channel 9 (1080p)
 https://contact.gostreaming.tv/Con-11/index.m3u8
 #EXTINF:-1 group-title="Израиль" tvg-id="ComedyChannel.il@SD",Comedy Channel (1080p)
 https://d15ds134q59udk.cloudfront.net/out/v1/fbba879221d045598540ee783b140fe2/index.m3u8
+#EXTINF:-1 group-title="Израиль" tvg-id="EconomyChannel.il@SD",Economy Channel
+https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8
+#EXTINF:-1 group-title="Израиль" tvg-id="Foody.il@SD",Foody
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/foody/live.livx/playlist.m3u8
 #EXTINF:-1 group-title="Израиль" tvg-id="GoodLife.il@SD",Good Life (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/47/index.m3u8
-#EXTINF:-1 group-title="Израиль" tvg-id="HealthChannel.il@SD",Health Channel (1080p)
-http://89.33.29.115:8080/Health/index.m3u8
 #EXTINF:-1 group-title="Израиль" tvg-id="Hidabroot.il@SD",Hidabroot (1080p)
 https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
 #EXTINF:-1 group-title="Израиль" tvg-id="HOTDrama.il@SD",HOT Drama (1080p)
@@ -1343,6 +1349,12 @@ http://stream.mcquack.net/294/index.m3u8
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
 #EXTINF:-1 group-title="Израиль" tvg-id="Now14.il@SD",Now 14 (1080p)
 https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
+#EXTINF:-1 group-title="Израиль" tvg-id="One2.il@SD",One 2
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/one_2/live.livx/playlist.m3u8
+#EXTINF:-1 group-title="Израиль" tvg-id="OneDoco.il@SD",One Doco
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/one_doco/live.livx/playlist.m3u8
+#EXTINF:-1 group-title="Израиль" tvg-id="OneEdge.il@SD",One Edge
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/one_edge/live.livx/playlist.m3u8
 #EXTINF:-1 group-title="Израиль" tvg-id="RealityChannel.il@SD",Reality Channel
 https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index_1.m3u8
 #EXTINF:-1 group-title="Израиль" tvg-id="Channel13.il@SD",Reshet 13 (720p)
@@ -1353,8 +1365,12 @@ https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/the_israeli_network/live.livx/playlist.m3u8
 #EXTINF:-1 group-title="Израиль" tvg-id="VacationChannel.il@SD",Vacation Channel
 https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index_2.m3u8
+#EXTINF:-1 group-title="Израиль" tvg-id="VivaIstanbul.il@SD",Viva Istanbul
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/viva_plus/live.livx/playlist.m3u8
 #EXTINF:-1 group-title="Израиль" tvg-id="VivaPremium.il@SD",Viva Premium (1080p)
 http://stream.mcquack.net/43/index.m3u8
+#EXTINF:-1 group-title="Израиль" tvg-id="VivaTelenovelas.il@SD",Viva Telenovelas
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/viva/live.livx/playlist.m3u8
 #EXTINF:-1 group-title="Израиль" tvg-id="YamTichoni.il@SD",Yam Tichoni (1080p)
 http://stream.mcquack.net/46/index.m3u8
 #EXTINF:-1 group-title="Израиль" tvg-id="Zoom.il@SD",Zoom (576p)
@@ -1697,6 +1713,8 @@ http://stream.mcquack.net/330/index.m3u8
 https://ext.cdn.nashnet.tv/228.0.2.214/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="Multimuzyka.ru@SD",Mult i muzyka (576p)
 http://stream.mcquack.net/82/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-id="MusicIL.il@SD",Music IL
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/music_il/live.livx/playlist.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="MuzTV.ru@SD",Muz-TV
 https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="MuzTV.ru@SD",Muz-TV (576p)
@@ -1756,6 +1774,8 @@ http://stream.mcquack.net/44/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="HopeChannelUkraine.ua@SD",Hope Channel Ukraine
 #EXTVLCOPT:http-user-agent=curl/8.16.0
 https://ext.cdn.nashnet.tv/228.0.0.172/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="Junior.il@SD",Junior
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/junior/live.livx/playlist.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="Multilandia.ru@SD",Multilandia
 https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="Multilandia.ru@SD",Multilandia (576p)
@@ -1780,8 +1800,6 @@ http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
 https://nonmirya7cc.a.trbcdn.net/livemaster/tzrz5_sazlypl5ot.smil/playlist.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="STSkids.ru@SD",STS kids (576p)
 http://stream.mcquack.net/197/index.m3u8
-#EXTINF:-1 group-title="Детские" tvg-id="TeenNick.il@SD",TeenNick (406p)
-http://89.33.29.115:8080/TeenNick/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="TiJi.ru@SD",TiJi (576p)
 http://flussonic.linkintel.ru/tiji/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="TiJi.ru@SD",TiJi (576p)
