@@ -810,6 +810,8 @@ https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="vijuExplore.ru@SD",viju Explore (576p)
 http://46.53.200.153:7777/play/a01i/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="vijuExplore.ru@SD",viju Explore (576p)
+http://116.90.120.149:8000/play/a0ar/index.m3u8
+#EXTINF:-1 group-title="Россия" tvg-id="vijuExplore.ru@SD",viju Explore (576p)
 http://stream.mcquack.net/239/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="vijuExplore.ru@SD",viju Explore (576p)
 https://fs.uplink.kz/viju_explore/mono.m3u8?token=onlinetv
@@ -1401,6 +1403,8 @@ http://stream.mcquack.net/294/index.m3u8
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
 #EXTINF:-1 group-title="Израиль" tvg-id="Now14.il@SD",Now 14 (1080p)
 https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
+#EXTINF:-1 group-title="Израиль" tvg-id="One.il@SD",One
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/one_1/live.livx/playlist.m3u8
 #EXTINF:-1 group-title="Израиль" tvg-id="One2.il@SD",One 2
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/one_2/live.livx/playlist.m3u8
 #EXTINF:-1 group-title="Израиль" tvg-id="OneDoco.il@SD",One Doco
@@ -1595,6 +1599,8 @@ http://777905.live.tvstitch.com/playlist.m3u8?master=102&source=aHR0cDovLzE3Ni4x
 #EXTINF:-1 group-title="Кино" tvg-id="vijuTV1000.ru@SD",viju TV1000 (576p)
 http://46.53.200.153:7777/play/TV_1000/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vijuTV1000.ru@SD",viju TV1000 (576p)
+http://116.90.120.149:8000/play/a0ap/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="vijuTV1000.ru@SD",viju TV1000 (576p)
 http://stream.mcquack.net/110/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vijuTV1000.ru@SD",viju TV1000 (576p)
 https://fs.uplink.kz/viju_tv1000/mono.m3u8?token=onlinetv
@@ -1602,6 +1608,8 @@ https://fs.uplink.kz/viju_tv1000/mono.m3u8?token=onlinetv
 https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vijuTV1000action.ru@SD",viju TV1000 action (576p)
 http://46.53.200.153:7777/play/a01h/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="vijuTV1000action.ru@SD",viju TV1000 action (576p)
+http://116.90.120.149:8000/play/a0aq/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vijuTV1000action.ru@SD",viju TV1000 action (576p)
 http://stream.mcquack.net/100/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="vijuTV1000action.ru@SD",viju TV1000 action (576p)
@@ -1654,6 +1662,8 @@ http://777905.live.tvstitch.com/playlist.m3u8?master=77&source=aHR0cDovLzE3Ni4xM
 #EXTINF:-1 group-title="Познавательные" tvg-id="vijuHistory.ru@SD",viju History (576p)
 http://46.53.200.153:7777/play/a01j/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="vijuHistory.ru@SD",viju History (576p)
+http://116.90.120.149:8000/play/a0as/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="vijuHistory.ru@SD",viju History (576p)
 http://178.124.179.122:8080/HistoryHD/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="vijuHistory.ru@SD",viju History (576p)
 http://stream.mcquack.net/101/index.m3u8
@@ -1663,6 +1673,8 @@ https://fs.uplink.kz/viju_history/mono.m3u8?token=onlinetv
 https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="vijuNature.ru@SD",viju Nature (576p)
 http://46.53.200.153:7777/play/a01k/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="vijuNature.ru@SD",viju Nature (576p)
+http://116.90.120.149:8000/play/a0at/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="vijuNature.ru@SD",viju Nature (576p)
 https://fs.uplink.kz/viju_nature/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Познавательные" tvg-id="Zoopark.ru@SD",Zoopark (576i)
@@ -1731,6 +1743,8 @@ https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
 http://31.148.5.241/Viasat_Sport/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="vijuPlusSport.ru@SD",viju+ Sport (576p)
 http://46.53.200.153:7777/play/Viasat_Sport/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="vijuPlusSport.ru@SD",viju+ Sport (576p)
+http://116.90.120.149:8000/play/a0au/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="vijuPlusSport.ru@SD",viju+ Sport (576p)
 http://stream.mcquack.net/333/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="vijuPlusSport.ru@SD",viju+ Sport (576p)
