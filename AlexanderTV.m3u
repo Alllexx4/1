@@ -121,6 +121,8 @@ http://stream.mcquack.net/120/index.m3u8
 https://bl.rutube.ru/livestream/c9e26bf5c003fd8d477200065ca1a05f/index.m3u8?e=2072611029&s=eqlTXebDP9wSWTZgre6BwQ&scheme=https
 #EXTINF:-1 group-title="Россия" tvg-id="Channel12.ru@SD",Channel 12 (576p) [Geo-blocked]
 https://streaming.thestream.cyou/live/7004.m3u8
+#EXTINF:-1 group-title="Россия" tvg-id="Channel4.ru@SD",Channel 4 (1080p)
+https://river-3-370.rtbcdn.ru/stream/genetta-316.m9.rutube.ru/60Ro5OWl7WWOswbVMQlqFw/1795975765/c6f66b644424c117f41e48062719ceed/576p_stream.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="Channel5.ru@SD",Channel 5 (576p)
 http://31.148.5.241/kanal_5/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="Channel5International.ru@SD",Channel 5 International (576i)
@@ -1111,6 +1113,9 @@ http://stream.mcquack.net/147/index.m3u8
 http://stream.mcquack.net/174/index.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="InterPlus.ua@SD",Inter+ (720p)
 https://cdn15.live-tv.cloud/ua_infinitas_tv/inter-abr/playlist.m3u8
+#EXTINF:-1 group-title="Украина" tvg-id="InterPlus.ua@HD",Inter+ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h305/stream.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="Islandia.ua@SD",Islandia (720p)
 https://cdn15.live-tv.cloud/ua_infinitas_tv/islandiya-abr/playlist.m3u8
 #EXTINF:-1 group-title="Украина" tvg-id="ITV.ua@SD",ITV (480p)
